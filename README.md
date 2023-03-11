@@ -4,9 +4,6 @@
 
 <ul>
 <li>Kevin Manuel Jaimes Ojeda, C.C. 1.214.745.423, Ingeniería Eléctrica</li>
-<li>Alejandro Rivera Perez, C.C. ..., Ingeniería Eléctrica</li>
+<li>Alejandro Rivera Perez, C.C. 1.040.049.760, Ingeniería Eléctrica</li>
 <li>Paula Andrea Gil Vargas, C.C. 1.152.717.270, Ingeniería Eléctrica</li>
 </ul>
-
-# Datos
-
