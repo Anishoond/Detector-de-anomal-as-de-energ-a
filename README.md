@@ -1,1 +1,1 @@
-# Detector-de-anomal-as-de-energ-a
+# Prediccion del tiempo de permanencia de pacientes en un hospital
