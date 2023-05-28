@@ -11,4 +11,7 @@
 
 # Videos
 # Entrega 2
-https://youtu.be/JDsj2zBU4yo
+[Entrega 2 - Video](https://youtu.be/JDsj2zBU4yo)
+
+# Entrega Final
+[Entrega Final - Video](
