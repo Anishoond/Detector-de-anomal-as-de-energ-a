@@ -9,7 +9,7 @@
 </ul>
 
 
-# **Videos**
+# Videos
 # Entrega 2
 [Entrega 2 - Video](https://youtu.be/JDsj2zBU4yo)
 
